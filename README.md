@@ -1,6 +1,11 @@
+
+
+<p align="center"> 
+  <img src="https://thelonelybit.org/images/TLB-Icon-TransBG.png" alt="The LonelyBit Logo" width="200"/>
+</p>
+
 # 🛠️ **NFT Auction Bot** 🛠️  
 
-[![Project Logo](https://thelonelybit.org/images/TLB-Icon-TransBG.png)]
 A Telegram bot designed for **NFT Auctions**, offering seamless user interaction, secure blockchain integration, and real-time updates.
 
 ---
