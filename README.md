@@ -170,4 +170,4 @@ The interactive menu provides quick access to functionalities:
 
 ## Conclusion
 
-The LonelyBit NFT Auction Bot offers a seamless and secure way to participate in NFT auctions using TLB tokens. With automatic bid updates, a transparent leaderboard, and essential administrative controls, the bot provides an engaging, fair, and rewarding auction experience for all participants. Join the auction and may the highest bid win! 🚀
+The LonelyBit NFT Auction Bot offers a seamless and secure way to participate in NFT auctions using BRC20 tokens. With automatic bid updates, a transparent leaderboard, and essential administrative controls, the bot provides an engaging, fair, and rewarding auction experience for all participants. Join the auction and may the highest bid win! 🚀
